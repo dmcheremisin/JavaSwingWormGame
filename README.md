@@ -6,8 +6,10 @@ You should turn worm in purpose to eat apple. Every apple makes worm bigger for 
 
 ## Instructions:
 You can adjust only field and figures sizes in the lines:
-  WormGame game = new WormGame(20, 20);
-  UserInterface ui = new UserInterface(game, 20);
+
+WormGame game = new WormGame(20, 20);
+
+UserInterface ui = new UserInterface(game, 20);
 
 ## Description of packages and classes:
 
