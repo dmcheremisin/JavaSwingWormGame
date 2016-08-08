@@ -1,6 +1,6 @@
 # Java worm game
 
-Classical worm game written in Java using NetBeans IDE 8.1.
+Classical worm game written in Java Swing using NetBeans IDE 8.1.
 
 You should turn worm in purpose to eat apple. Every apple makes worm bigger for one piece and makes speed faster.
 
